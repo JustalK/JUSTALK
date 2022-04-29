@@ -6,6 +6,8 @@ I'm Justalk, a French developer. I have been working for different countries aro
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=justalk&show_icons=true&title_color=FFF&text_color=FFF&icon_color=000&bg_color=15,eb703f,fcd116,eb843f)](https://github.com/justalk)
 
+[![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=justalk)](https://github-readme-streak-stats.herokuapp.com/?user=justalk)
+
 ### WEBSITE
 
 [justalk.online: My Portfolio](https://justalk.online/ "My Portfolio")
