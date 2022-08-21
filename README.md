@@ -8,12 +8,5 @@ I'm Justalk, a French developer. I have been working for different countries aro
 
 [![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=justalk)](https://github-readme-streak-stats.herokuapp.com/?user=justalk)
 
-### WEBSITE
-
-[justalk.online: My Portfolio](https://justalk.online/ "My Portfolio")
-
-[justalk.life: My Happy Life](https://justalk.online/ "My Life")
-
-### APP
-
-[My APP Portfolio](https://play.google.com/store/apps/details?id=com.justalk.portfolio)
+- **LinkedIn**: https://www.linkedin.com/in/justal-kevin/
+- **Dribbble**: https://dribbble.com/justalk
