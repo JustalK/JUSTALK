@@ -9,4 +9,3 @@ I'm Justalk, a French developer. I have been working for different countries aro
 [![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=justalk)](https://github-readme-streak-stats.herokuapp.com/?user=justalk)
 
 - **LinkedIn**: https://www.linkedin.com/in/justal-kevin/
-- **Dribbble**: https://dribbble.com/justalk
